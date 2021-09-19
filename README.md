@@ -1,2 +1,2 @@
 # cpp
-test of C++
+test of C,C++
